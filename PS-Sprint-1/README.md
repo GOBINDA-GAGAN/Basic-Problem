@@ -34,7 +34,7 @@
    Output: `Armstrong Number`  
    Explanation: 153 is an Armstrong number because 1^3 + 5^3 + 3^3 = 153.  
 
-5. **Generating the Fibonacci Series**  
+5. **Generating the Fibonacci Series ✅**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Sequences  
    **Description**: Write a program to generate the Fibonacci series up to a given number.  
