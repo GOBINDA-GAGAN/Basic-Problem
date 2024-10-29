@@ -16,7 +16,7 @@
    Output: `Prime`  
    Explanation: 7 has no divisors other than 1 and itself, so it is a prime number.  
 
-3. **Validating Leap Years**  
+3. **Validating Leap Years ✅**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Date Handling  
    **Description**: Write a program to check if a given year is a leap year.  
@@ -25,7 +25,7 @@
    Output: `Leap Year`  
    Explanation: 2020 is divisible by 4 but not by 100, or it is divisible by 400, so it is a leap year.  
 
-4. **Calculating Armstrong Numbers**  
+4. **Calculating Armstrong Numbers ✅**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Number Theory  
    **Description**: Write a program to check if a number is an Armstrong number.  
