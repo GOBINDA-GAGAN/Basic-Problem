@@ -7,7 +7,7 @@
    Output: `Even`  
    Explanation: Since 4 is divisible by 2, it is an even number.  
 
-2. **Checking for Prime Numbers**  
+2. **Checking for Prime Numbers ✅**  
    **Difficulty**: Easy  
    **Topics**: Basic Programming, Number Theory  
    **Description**: Write a program to determine if a number is prime.  
