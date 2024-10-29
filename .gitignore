@@ -1,0 +1,56 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.javadoc
+
+# Exclude specific IDE files (e.g., Eclipse, IntelliJ)
+*.project
+*.classpath
+*.idea/
+*.iml
+*.settings/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+*.virtualenv
+.env
+*.ipynb_checkpoints
+.Python
+pyenv
+
+# C++ and C
+*.o
+*.out
+*.obj
+*.exe
+*.gch
+*.a
+*.so
+*.dylib
+*.dll
+
+# JavaScript/Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# General
+.vscode/
+.idea/
+*.bak
+*.swp
